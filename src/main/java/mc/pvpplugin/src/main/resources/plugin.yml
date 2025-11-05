@@ -1,0 +1,9 @@
+name: MCPvPPlugin
+main: mc.pvpplugin.MCPvPPlugin
+version: 1.0
+api-version: 1.20
+commands:
+  start:
+    description: 게임 시작
+  freeitem:
+    description: 무료 아이템 지급
